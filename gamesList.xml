@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Games>
+    <Game>
+        <Name>World for Life</Name>
+        <DownloadUrl>https://example.com/game1.zip</DownloadUrl>
+        <Md5Checksum>abcd1234...</Md5Checksum>
+    </Game>
+    <Game>
+        <Name>Example Game 2</Name>
+        <DownloadUrl>https://example.com/game2.zip</DownloadUrl>
+        <Md5Checksum>5678efgh...</Md5Checksum>
+    </Game>
+</Games>
